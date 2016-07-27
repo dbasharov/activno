@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Название статьи"
-date:   2016-07-26 13:41:41 +0300
+title:  "Номер два"
+date:   2016-07-27 14:14:41 +0300
 categories: jekyll update
 ---
 Статья вторая ...
