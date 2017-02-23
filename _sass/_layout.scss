@@ -176,17 +176,17 @@
 }
 
 .post-list {
-    margin-left: 0px;
+    margin-left: 0;
     list-style: none;
 
     > li {
         margin-bottom: $spacing-unit;
-        font-size: 100px;
     }
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    /* font-size: $small-font-size; */
+    font-size: 50px;
     color: $grey-color;
 }
 
