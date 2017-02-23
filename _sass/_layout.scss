@@ -176,11 +176,12 @@
 }
 
 .post-list {
-    margin-left: 100px;
+    margin-left: 0px;
     list-style: none;
 
     > li {
         margin-bottom: $spacing-unit;
+        font-si: 120px;
     }
 }
 
